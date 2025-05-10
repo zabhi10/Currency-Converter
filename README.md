@@ -337,5 +337,4 @@ This project is set up to generate code coverage reports when tests are run usin
 
     (You can typically use `open ./CurrencyConverterApi/coverage-report/index.html` on macOS from the solution root to open it in your default browser).
 
-    <img width="1139" alt="image" src="https://github.com/user-attachments/assets/1431593b-9750-4317-8019-2f57957fbcc7" />
-
+    ![alt text](assets/code-coverage.png)
