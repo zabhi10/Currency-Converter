@@ -1,5 +1,6 @@
 using CurrencyConverterApi.Models;
 using FluentValidation;
+using System.Collections.Generic;
 
 namespace CurrencyConverterApi.Validators
 {
